@@ -1,2 +1,2 @@
 # ARFaceTracking
- AR FaceTracking with Unity
+Android APP changing face mask & Placing objects on the face (with Unity)
