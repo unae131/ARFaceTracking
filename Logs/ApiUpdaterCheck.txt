@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 2021-09-21 PM 10:19:24 : Starting /Users/penguo/Works/Unae2/unity/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 222.19ms
+moved types parse time: 104ms
+candidates parse time : 2ms
+C# parse time         : 485ms
+candidates check time : 64ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2021-09-21 PM 10:30:19 : Starting /Users/penguo/Works/Unae2/unity/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.357ms
+moved types parse time: 100ms
+candidates parse time : 2ms
+C# parse time         : 504ms
+candidates check time : 79ms
+console write time    : 1ms
+
